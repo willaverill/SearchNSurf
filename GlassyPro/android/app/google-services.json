@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "441192384155",
+    "firebase_url": "https://glassypro.firebaseio.com",
+    "project_id": "glassypro",
+    "storage_bucket": "glassypro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:441192384155:android:30a6003c3b37250343a83e",
+        "android_client_info": {
+          "package_name": "com.darknightech.glassypro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "441192384155-54i4d5qoqr7tbtdn3hpvb8b9p9uoqoug.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgB-dfG1ZhTKvJtVSO2kSmjUZcE0KHftQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "441192384155-54i4d5qoqr7tbtdn3hpvb8b9p9uoqoug.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "441192384155-h59621f24oljpaihftau7096kos8mgcb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.darknightech.glassypro"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

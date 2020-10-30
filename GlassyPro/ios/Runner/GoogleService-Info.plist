@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>441192384155-h59621f24oljpaihftau7096kos8mgcb.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.441192384155-h59621f24oljpaihftau7096kos8mgcb</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA2SwKj9RyCHyaFqCr2D7VIH62VY95NMoE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>441192384155</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.darknightech.glassypro</string>
+	<key>PROJECT_ID</key>
+	<string>glassypro</string>
+	<key>STORAGE_BUCKET</key>
+	<string>glassypro.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:441192384155:ios:4e8791872cb94c7a43a83e</string>
+	<key>DATABASE_URL</key>
+	<string>https://glassypro.firebaseio.com</string>
+</dict>
+</plist>
